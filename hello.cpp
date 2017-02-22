@@ -4,8 +4,8 @@ using namespace std;
 
 
 
-int main()
+int main(int argc, char** argv)
 {
-	cout << "AYEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE" << endl;
+	cout << "AYEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE" << arrgv[1] << endl;
 	return 0;
 }
